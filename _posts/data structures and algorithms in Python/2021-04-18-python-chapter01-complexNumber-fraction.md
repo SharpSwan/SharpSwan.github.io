@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 파이썬 자료구조 Chapter 01 복소수, fraction 모듈 # title에 [괄호] 사용 금지
+title: 파이썬 자료구조 Chapter 01 복소수, fraction 모듈, decimal 모듈, 진수, 넘파이 # title에 [괄호] 사용 금지
 date: 2021-04-25 18:54:00 +0900 # 한국 시간 포맷 +0900
-description: 파이썬 자료구조 Chapter 01 복소수, fraction 모듈 # Add post description (optional)
+description: 파이썬 자료구조 Chapter 01 복소수, fraction 모듈 decimal 모듈, 진수, 넘파이 # Add post description (optional)
 img: /data-structures-and-algorithms-in-python/data-structures-and-algorithms-in-python.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [파이썬 자료구조와 알고리즘, 파이썬 숫자]
