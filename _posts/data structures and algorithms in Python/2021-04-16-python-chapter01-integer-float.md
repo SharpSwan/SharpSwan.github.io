@@ -17,7 +17,14 @@ use_math: true
   - [1.2 부동소수점](#12-부동소수점)
   - [1.2.1 부동소수점끼리 비교하기](#121-부동소수점끼리-비교하기)
   - [1.2.2 정수와 부동소수점 메서드](#122-정수와-부동소수점-메서드)
-
+  
+  - [1.3 복소수](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#13-%EB%B3%B5%EC%86%8C%EC%88%98)
+  - [1.4 fraction 모듈](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#14-fraction-%EB%AA%A8%EB%93%88)
+  - [1.5 decimal 모듈](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#15-decimal-%EB%AA%A8%EB%93%88)
+  - [1.6 2진수, 8진수, 16진수](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#16-2%EC%A7%84%EC%88%98-8%EC%A7%84%EC%88%98-16%EC%A7%84%EC%88%98)
+  - [1.7 연습문제](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#17-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C)
+  - [1.8 넘파이 패키지](https://sharpswan.github.io/python-chapter01-complexNumber-fraction/#18-%EB%84%98%ED%8C%8C%EC%9D%B4-%ED%8C%A8%ED%82%A4%EC%A7%80)
+  
 # Chapter 01 숫자
 
 - 숫자 
@@ -173,3 +180,4 @@ False
   ```
 
 ---
+
