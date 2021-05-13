@@ -59,6 +59,7 @@ use_math: true
 - 바이트 `'type'`
 
 생성 방법
+
 ```python
 l = []
 type(l)
@@ -79,7 +80,6 @@ type(ba)
 b = bytes([])
 type(b)
 <class 'type'>
-
 ```
 
 ---
