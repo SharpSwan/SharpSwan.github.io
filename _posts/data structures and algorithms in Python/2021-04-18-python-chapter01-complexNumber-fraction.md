@@ -8,6 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [파이썬 자료구조와 알고리즘, 파이썬 숫자]
 use_math: true
 ---
+
 # PART 자료구조 Contents
 
 - [PART 자료구조 Contents](https://sharpswan.github.io/python-chapter01-integer-float/#part-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-contents)
