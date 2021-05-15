@@ -11,6 +11,7 @@ use_math: true
 # PART 자료구조 Contents
 
 - [PART 자료구조 Contents](#part-자료구조-contents)
+  
 - [chapter 02 내장 시퀀스](https://sharpswan.github.io/python-chapter02-copy-slicing/#chapter-02-%EB%82%B4%EC%9E%A5-%EC%8B%9C%ED%80%80%EC%8A%A4)
   - [2.1 깊은 복사와 슬라이싱 연산](https://sharpswan.github.io/python-chapter02-copy-slicing/#21-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8B%B1-%EC%97%B0%EC%82%B0)
     - [2.1.1 가변성](https://sharpswan.github.io/python-chapter02-copy-slicing/#211-%EA%B0%80%EB%B3%80%EC%84%B1)

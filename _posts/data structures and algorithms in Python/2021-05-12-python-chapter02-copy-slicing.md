@@ -9,10 +9,10 @@ tags: [파이썬 자료구조와 알고리즘, 파이썬 내장 시퀀스 타입
 use_math: true
 ---
 
-
 # PART 자료구조 Contents
 
 - [PART 자료구조 Contents](#part-자료구조-contents)
+
 - [chapter 02 내장 시퀀스](#chapter-02-내장-시퀀스)
   - [2.1 깊은 복사와 슬라이싱 연산](#21-깊은-복사와-슬라이싱-연산)
     - [2.1.1 가변성](#211-가변성)
@@ -20,6 +20,7 @@ use_math: true
   - [2.2 문자열](https://sharpswan.github.io/python-string/#22-%EB%AC%B8%EC%9E%90%EC%97%B4)
     - [2.2.1 유니코드 문자열](https://sharpswan.github.io/python-string/#221-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
     - [2.2.2 문자열 메서드](https://sharpswan.github.io/python-string/#222-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A9%94%EC%84%9C%EB%93%9C)
+  
   - [2.3 튜플](#23-튜플)
     - [2.3.1 튜플 메서드](#231-튜플-메서드)
     - [2.3.2 튜플 언패킹](#232-튜플-언패킹)
@@ -38,7 +39,8 @@ use_math: true
     - [2.6.4 문자열 순열](#264-문자열-순열)
     - [2.6.5 회문](#265-회문)
   
-  
+---
+
 # chapter 02 내장 시퀀스
 
 내장 시퀀스<sup>sequence</sup> 타입
