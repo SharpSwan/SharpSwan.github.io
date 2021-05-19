@@ -19,6 +19,7 @@ use_math: true
   - [2.2 문자열](https://sharpswan.github.io/python-string/#22-%EB%AC%B8%EC%9E%90%EC%97%B4)
     - [2.2.1 유니코드 문자열](https://sharpswan.github.io/python-string/#221-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
     - [2.2.2 문자열 메서드](https://sharpswan.github.io/python-string/#222-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A9%94%EC%84%9C%EB%93%9C)    
+  - [2.3 튜플](#23-튜플)
     - [2.3.1 튜플 메서드](#231-튜플-메서드)
     - [2.3.2 튜플 언패킹](#232-튜플-언패킹)
     - [2.3.3 네임드 튜플](#233-네임드-튜플)
