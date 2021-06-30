@@ -1,4 +1,10 @@
 <head>
+ <!-- gtag manager -->
+ {% if site.google_tag.ua %}
+ {% include gtag_head.html %}
+ {% endif %}
+ 
+  <!-- End Google Tag Manager -->
   <script data-ad-client="ca-pub-5734802975980644" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>

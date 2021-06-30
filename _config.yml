@@ -43,3 +43,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+
+#gtag
+google_tag:
+  ua:GTM-K928HHS
